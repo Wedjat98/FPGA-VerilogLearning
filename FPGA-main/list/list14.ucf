@@ -1,0 +1,3 @@
+NET "clk" loc=L15;
+NET "a" loc=P3;
+NET "q" loc=U18; 
